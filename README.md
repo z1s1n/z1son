@@ -2,5 +2,5 @@
 * Go Developer.
 * Keep learning.
 
-[![chazyu1996's github stats](https://github-readme-stats.vercel.app/api?username=morningfish)](https://github.com/morningfish)
+[![z1son's github stats](https://github-readme-stats.vercel.app/api?username=z1son)](https://github.com/z1son)
 
